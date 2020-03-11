@@ -24,8 +24,8 @@
   "window": {
     "frame": false,
     "toolbar": false,
-    "width": 300,
-    "height": 300,
+    "width": 128,
+    "height": 128,
     "transparent": true,
     "always-on-top": true
   }
